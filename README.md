@@ -12,7 +12,7 @@ This research project investigates the ethical implications of Artificial Intell
 
 ---
 
-### 🧪 Methodology
+###  Methodology
 
 #### 1. Thematic Literature Review
 - Analyzed 200+ academic papers using **Latent Dirichlet Allocation (LDA)**

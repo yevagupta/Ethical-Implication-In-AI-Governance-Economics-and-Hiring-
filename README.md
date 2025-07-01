@@ -35,7 +35,7 @@ This research project investigates the ethical implications of Artificial Intell
   - Model safety & OpenAI criticism
   - Control over personal data
 
-#### 3. 🇮🇳 Regulatory Policy Evaluation
+#### 3. Regulatory Policy Evaluation
 - Assessed India’s AI governance landscape
 - Highlighted the RBI’s formation of the **FREE-AI** committee as a financial-sector milestone
 - Compared India’s current efforts to the **EU AI Act** and **UK's CDEI**, emphasizing the need for a unified, risk-based AI law

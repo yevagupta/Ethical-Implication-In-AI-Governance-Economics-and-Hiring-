@@ -40,6 +40,7 @@ This research project investigates the ethical implications of Artificial Intell
 - Highlighted the RBI’s formation of the **FREE-AI** committee as a financial-sector milestone
 - Compared India’s current efforts to the **EU AI Act** and **UK's CDEI**, emphasizing the need for a unified, risk-based AI law
 
+---
 
 ### Tools & Technologies
 
